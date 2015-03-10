@@ -1,0 +1,7 @@
+.form-control:invalid:focus{
+   border: 1px solid #cc0000;
+}
+
+.form-control:valid:focus{
+   border: 1px solid #00cc00;
+}
